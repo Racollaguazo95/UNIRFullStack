@@ -1,0 +1,12 @@
+.card__category{
+    text-align: center;
+}
+
+.card__category__message{
+    height: 65px;
+}
+
+.card__line{
+    color: #ffffff;
+    border: 2px solid;
+}

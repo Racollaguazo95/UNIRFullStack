@@ -1,0 +1,5 @@
+.img__line{
+    color: black;
+    border: 5px solid;
+    object-fit: cover;
+}

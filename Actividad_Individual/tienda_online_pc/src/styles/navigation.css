@@ -1,0 +1,11 @@
+.nav__color {
+    color: black; /* Cambia este valor al color que prefieras */
+}
+
+.nav__position{
+    position: sticky;
+    top: 0;
+    z-index: 9999;
+}
+
+
