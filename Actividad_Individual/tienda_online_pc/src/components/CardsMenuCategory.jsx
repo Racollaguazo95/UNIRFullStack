@@ -8,9 +8,7 @@ export const CardsMenuCategory = ({ id, image, shortDescription, price, route })
     <Col xs={12} md={4} className="mb-4">
 
       <Card className='border-black border-2 bg-light'>
-        <Link to={route}>
-          <Card.Img variant="top" src={image} />
-        </Link>
+        <Card.Img variant="top" src={image} />
         <Card.Body>
           {
             shortDescription
